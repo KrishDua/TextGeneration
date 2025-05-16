@@ -73,6 +73,6 @@ This project allows you to:
 
 **Krish Dua**  
 Portfolio: https://krishdua.vercel.app  
-LinkedIn: https://www.linkedin.com/in/krish-dua
+LinkedIn: https://www.linkedin.com/in/krish-dua-9202a4272/
 
 ---
